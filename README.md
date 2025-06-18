@@ -8,6 +8,7 @@ This project is a cheap, bare-bones 2-channel USB audio interface based off of a
 - 12-bit resolution
 - 44.1 kHz sample rate
 - 4x oversampling to reduce USB noise
+- -14dB to 1.6dB gain control
 - Component cost <$10
 - Plug and play (at least on my machine)
 
