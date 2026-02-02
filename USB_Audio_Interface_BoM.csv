@@ -1,0 +1,11 @@
+Reference,Part,Value,Size/Package,Qty,Notes,Digikey
+A1,Raspberry Pi Pico,~,~,1,Can also get version with soldered headers,https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793
+"C1,C2,C3,C6,C9,C10,C12,C14",Surface Mount Capacitor,0.1uF 100V,0805,8,,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B104KCFNNNE/5961324
+"C4,C5,C7,C8",Surface Mount Capacitor,330pF 50V,0805,4,,https://www.digikey.com/en/products/detail/kemet/C0805C331K5RACTU/411139
+"C11,C13",Surface Mount Capacitor,10uF 25V,0805,2,,https://www.digikey.com/en/products/detail/cal-chip-electronics-inc/GMC21X7R106K25NT/22640097
+J1,Stereo Audio Jack,3523,~,1,,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SJ1-3523N/738689
+"R1,R2,R5,R6",Surface Mount Resistor,100k,0805,4,,https://www.digikey.com/en/products/detail/yageo/RC0805FR-07100KL/727544
+"R3,R4",Surface Mount Resistor,20k,0805,2,,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0720KL/727720
+"R7,R8,R9,R10,R11,R12",Surface Mount Resistor,10k,0805,6,,https://www.digikey.com/en/products/detail/yageo/RC0805FR-0710KL/727535
+"RV1,RV2",Potentiometer,100k,PTV09,2,Most vertical snap-in pots will also work,https://www.digikey.com/en/products/detail/bourns-inc/PTV09A-4015U-B104/6153484
+U1,Quad Op-amp,MCP6004,SOIC-14,1,,https://www.digikey.com/en/products/detail/microchip-technology/MCP6004T-I-SL/523092
