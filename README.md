@@ -14,6 +14,7 @@ This project is a cheap, bare-bones 2-channel USB audio interface based off of a
 - Component cost <$10
 - Plug and play (at least on my machine)
 - Smaller than a credit card
+- Mono or Stereo mode configurable via solder jumpers
 
 ## Disclaimers
 This is not an audiophile-friendly device. Depending on what you plug it into, there may be significant USB noise.
