@@ -6,7 +6,6 @@
 This project is a cheap, bare-bones 2-channel USB audio interface based off of a Pi Pico board.
 
 ## Features
-- 2 channels
 - 12-bit resolution
 - 44.1 kHz sample rate
 - 4x oversampling to reduce USB noise
