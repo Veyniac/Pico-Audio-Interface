@@ -1,3 +1,5 @@
+
+![20260201_210217](https://github.com/user-attachments/assets/b1dcab2b-9143-4baf-83cd-0d0499bfa95e)
 # Pico-Audio-Interface
 
 ## Description
