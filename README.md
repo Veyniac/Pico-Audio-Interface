@@ -20,7 +20,3 @@ compete with commercial audio interfaces.
 
 I am also not responsible if this somehow fries your USB port. Always be careful when connecting a USB cable to an
 externally powered device.
-
-Noise reduction tips:
-- Capture the audio using an isolated device (e.g. laptop on battery power) to prevent ground loops and charger noise.
-- Use larger power supply capacitors (C11 & C12).
