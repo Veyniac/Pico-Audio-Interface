@@ -11,7 +11,7 @@ This project is a cheap, bare-bones 2-channel USB audio interface based off of a
 - 4x oversampling to reduce USB noise
 - -14dB to 1.6dB gain control
 - Component cost <$10
-- Plug and play
+- Plug and play USB Audio Class 2.0 device
 - Smaller than a credit card
 - Mono or Stereo mode configurable via solder jumpers
 
