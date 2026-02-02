@@ -11,6 +11,7 @@ This project is a cheap, bare-bones 2-channel USB audio interface based off of a
 - -14dB to 1.6dB gain control
 - Component cost <$10
 - Plug and play (at least on my machine)
+- Smaller than a credit card
 
 ## Disclaimers
 This is not an audiophile-friendly device. Depending on what you plug it into, there may be significant USB noise.
